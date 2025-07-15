@@ -1,23 +1,27 @@
-# attendance_aap
+# 📲 Attendance App (Flutter)
 
-An Attendance App
+This is an attendance tracking app built using Flutter.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+| Login | Dashboard |
+|-------|-----------|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ▶️ How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
 
+---
 
-asingh_mca24@thapar.edu
-12121212
+## 🔁 STEP 5: Stage and Commit Everything
 
-codewithamann@gmail.com `1`
-12121212
+```bash
+git add .
+git commit -m "Initial commit with Flutter app and screenshots"
