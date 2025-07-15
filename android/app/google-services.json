@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1097316044005",
+    "firebase_url": "https://zone-check-be677-default-rtdb.firebaseio.com",
+    "project_id": "zone-check-be677",
+    "storage_bucket": "zone-check-be677.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097316044005:android:ac9d8aab6186f0ebf0180c",
+        "android_client_info": {
+          "package_name": "com.example.attendance_aap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWCscncreEUZa2B2i8o1mE_zz0BONYFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
