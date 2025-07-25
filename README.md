@@ -114,20 +114,14 @@ Navigate to project
 
 
 
+
 bash
-
-Copy code
-
 cd Attendance\_App-Zone\_Check-
 
 Install dependencies
 
 
-
 bash
-
-Copy code
-
 flutter pub get
 
 Run the app
@@ -135,9 +129,6 @@ Run the app
 
 
 bash
-
-Copy code
-
 flutter run
 
 
