@@ -50,29 +50,29 @@ Zone Check is a Flutter-based smart attendance app designed for teachers and stu
 
 | Screen Name                | Preview |
 |---------------------------|---------|
-| asking_date_for_report    | ![](screenshots/asking_date_for_report.png) |
-| asking_Report             | ![](screenshots/asking_Report.png) |
-| attendance_report_Student | ![](screenshots/attendance_report_Student.png) |
-| drawer                    | ![](screenshots/drawer.png) |
-| email_verification_page   | ![](screenshots/email_verification_page.png) |
-| forgot_password           | ![](screenshots/forgot_password.png) |
-| location_permission       | ![](screenshots/location_permission.png) |
+| Screen Name                | Preview |
+|---------------------------|---------|
+| splash_screen             | ![](screenshots/splash_screen.png) |
 | login_page                | ![](screenshots/login_page.png) |
+| signup_page               | ![](screenshots/signup_page.png) |
+| email_verification_page   | ![](screenshots/email_verification_page.png) |
+| student_dashboard         | ![](screenshots/student_dashboard.png) |
+| teacher_dashboard         | ![](screenshots/teacher_dashboard.png) |
+| teacher_dashboard_2       | ![](screenshots/teacher_dashboard_2.png) |
 | manage_subjects           | ![](screenshots/manage_subjects.png) |
 | profile_page              | ![](screenshots/profile_page.png) |
 | profile_pic_gravater      | ![](screenshots/profile_pic_gravater.png) |
 | profile_pic_options       | ![](screenshots/profile_pic_options.png) |
+| student_profile           | ![](screenshots/student_profile.png) |
+| location_permission       | ![](screenshots/location_permission.png) |
+| forgot_password           | ![](screenshots/forgot_password.png) |
+| asking_date_for_report    | ![](screenshots/asking_date_for_report.png) |
+| asking_Report             | ![](screenshots/asking_Report.png) |
+| attendance_report_Student | ![](screenshots/attendance_report_Student.png) |
 | report_for_student        | ![](screenshots/report_for_student.png) |
 | report_whole              | ![](screenshots/report_whole.png) |
-| signup_page               | ![](screenshots/signup_page.png) |
-| splash_screen             | ![](screenshots/splash_screen.png) |
-| student_dashboard         | ![](screenshots/student_dashboard.png) |
-| student_profile           | ![](screenshots/student_profile.png) |
 | student_report            | ![](screenshots/student_report.png) |
-| teacher_dashboard         | ![](screenshots/teacher_dashboard.png) |
-| teacher_dashboard_2       | ![](screenshots/teacher_dashboard_2.png) |
-
-
+| drawer                    | ![](screenshots/drawer.png) |
 
 
 
