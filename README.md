@@ -115,21 +115,19 @@ Navigate to project
 
 
 
-bash
-cd Attendance\_App-Zone\_Check-
+bash   -   cd Attendance\_App-Zone\_Check-
 
 Install dependencies
 
 
-bash
-flutter pub get
+
+bash   -   flutter pub get
 
 Run the app
 
 
 
-bash
-flutter run
+bash   -   flutter run
 
 
 
@@ -146,32 +144,3 @@ Amandeep Singh
 ⭐ License
 
 This project is licensed under the MIT License.
-
-
-
-
-
----
-
-
-
-✅ \*\*Next Steps\*\*:
-
-1\. Create a folder `assets/screenshots/` in your project root.  
-
-2\. Put all images (like splash, login, dashboard, etc.) inside that folder.  
-
-3\. Add the image paths in your `pubspec.yaml` under `flutter > assets:` like this:
-
-
-
-```yaml
-
-flutter:
-
-&nbsp; assets:
-
-&nbsp;   - assets/screenshots/
-
-
-
