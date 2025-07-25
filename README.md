@@ -46,55 +46,31 @@ Zone Check is a Flutter-based smart attendance app designed for teachers and stu
 
 \## 📸 App Screenshots
 
-
+## App Screenshots
 
 | Screen Name                | Preview |
-
 |---------------------------|---------|
-
-| asking\_date\_for\_report    | !\[](assets/images/asking\_date\_for\_report.png) |
-
-| asking\_Report             | !\[](assets/images/asking\_Report.png) |
-
-| attendance\_report\_Student | !\[](assets/images/attendance\_report\_Student.png) |
-
-| drawer                    | !\[](assets/images/drawer.png) |
-
-| email\_verification\_page   | !\[](assets/images/email\_verification\_page.png) |
-
-| forgot\_password           | !\[](assets/images/forgot\_password.png) |
-
-| location\_permission       | !\[](assets/images/location\_permission.png) |
-
-| login\_page                | !\[](assets/images/login\_page.png) |
-
-| manage\_subjects           | !\[](assets/images/manage\_subjects.png) |
-
-| profile\_page              | !\[](assets/images/profile\_page.png) |
-
-| profile\_pic\_gravater      | !\[](assets/images/profile\_pic\_gravater.png) |
-
-| profile\_pic\_options       | !\[](assets/images/profile\_pic\_options.png) |
-
-| report\_for\_student        | !\[](assets/images/report\_for\_student.png) |
-
-| report\_whole              | !\[](assets/images/report\_whole.png) |
-
-| signup\_page               | !\[](assets/images/signup\_page.png) |
-
-| splash\_screen             | !\[](assets/images/splash\_screen.png) |
-
-| student\_dashboard         | !\[](assets/images/student\_dashboard.png) |
-
-| student\_profile           | !\[](assets/images/student\_profile.png) |
-
-| student\_report            | !\[](assets/images/student\_report.png) |
-
-| teacher\_dashboard         | !\[](assets/images/teacher\_dashboard.png) |
-
-| teacher\_dashboard\_2       | !\[](assets/images/teacher\_dashboard\_2.png) |
-
-
+| asking_date_for_report    | ![](screenshots/asking_date_for_report.png) |
+| asking_Report             | ![](screenshots/asking_Report.png) |
+| attendance_report_Student | ![](screenshots/attendance_report_Student.png) |
+| drawer                    | ![](screenshots/drawer.png) |
+| email_verification_page   | ![](screenshots/email_verification_page.png) |
+| forgot_password           | ![](screenshots/forgot_password.png) |
+| location_permission       | ![](screenshots/location_permission.png) |
+| login_page                | ![](screenshots/login_page.png) |
+| manage_subjects           | ![](screenshots/manage_subjects.png) |
+| profile_page              | ![](screenshots/profile_page.png) |
+| profile_pic_gravater      | ![](screenshots/profile_pic_gravater.png) |
+| profile_pic_options       | ![](screenshots/profile_pic_options.png) |
+| report_for_student        | ![](screenshots/report_for_student.png) |
+| report_whole              | ![](screenshots/report_whole.png) |
+| signup_page               | ![](screenshots/signup_page.png) |
+| splash_screen             | ![](screenshots/splash_screen.png) |
+| student_dashboard         | ![](screenshots/student_dashboard.png) |
+| student_profile           | ![](screenshots/student_profile.png) |
+| student_report            | ![](screenshots/student_report.png) |
+| teacher_dashboard         | ![](screenshots/teacher_dashboard.png) |
+| teacher_dashboard_2       | ![](screenshots/teacher_dashboard_2.png) |
 
 
 
